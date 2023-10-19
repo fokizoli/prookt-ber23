@@ -1,4 +1,4 @@
 # prookt-ber23
 # github böngészőből írtam
-# vs code
+# vs c
 # vs 2
